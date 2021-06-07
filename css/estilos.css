@@ -105,7 +105,7 @@ header{
 	}
 
 	article{
-		width: 80% ! important;
+		width: 600% ! important;
 
 		height: 350px;
 		margin-left: 10%;
@@ -114,6 +114,7 @@ header{
 		}
 		article>img{
 			height: 100%;
+			width: 15%;
 		}
 	aside{
 		height: 200px;
